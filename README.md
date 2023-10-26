@@ -3,7 +3,7 @@
 
 # ¡Hola! 👋 Soy Carolina 
 
-![Banner]([ruta/a/tu/imagen/banner.jpg](https://media.licdn.com/dms/image/D4D03AQH5N9kj-LJiCA/profile-displayphoto-shrink_800_800/0/1680437559953?e=1703721600&v=beta&t=bxT0qtz9248X8QMvB-QSOERwKH3z-gxO1thj1xS9z1E))
+![Banner]([ruta/a/tu/imagen/banner.jpg]([https://media.licdn.com/dms/image/D4D03AQH5N9kj-LJiCA/profile-displayphoto-shrink_800_800/0/1680437559953?e=1703721600&v=beta&t=bxT0qtz9248X8QMvB-QSOERwKH3z-gxO1thj1xS9z1E)](https://media.licdn.com/dms/image/D4D03AQH5N9kj-LJiCA/profile-displayphoto-shrink_400_400/0/1680437559953?e=1703721600&v=beta&t=YrIGJM4rEgqAGhBkGvDX6ITDc_Er3yu1ldnn_3mzIUw))
 
 ## Sobre mí
 Soy un desarrolladora de aplicaciones web empezando su camino. Estoy encantada de colaborar en proyectos, sigo aprendiendo cada día, y espero mi primera oportunidad en IT como meta para el próximo año!
