@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**Carol-88/Carol-88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# ¡Hola! 👋 Soy Carolina 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Banner]([ruta/a/tu/imagen/banner.jpg](https://media.licdn.com/dms/image/D4D03AQH5N9kj-LJiCA/profile-displayphoto-shrink_800_800/0/1680437559953?e=1703721600&v=beta&t=bxT0qtz9248X8QMvB-QSOERwKH3z-gxO1thj1xS9z1E))
+
+## Sobre mí
+Soy un desarrolladora de aplicaciones web empezando su camino. Estoy encantada de colaborar en proyectos, sigo aprendiendo cada día, y espero mi primera oportunidad en IT como meta para el próximo año!
+
+## Tecnologías
+
+- HTML
+  ![HTML](ruta/a/tu/imagen/html.png)
+
+- CSS
+  ![CSS](ruta/a/tu/imagen/css.png)
+
+- JavaScript
+  ![JavaScript](ruta/a/tu/imagen/javascript.png)
+
+- React
+  ![React](ruta/a/tu/imagen/react.png)
+
+¡Gracias por visitar mi perfil!
