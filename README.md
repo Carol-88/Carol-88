@@ -3,7 +3,7 @@
 
 # ¡Hola! 👋 Soy Carolina 
 
-![Banner]
+![Banner](https://github.com/Carol-88/Carol-88/blob/main/banner.png)
 
 ## Sobre mí
 Soy una desarrolladora de aplicaciones web empezando su camino. Estoy encantada de colaborar en proyectos, sigo aprendiendo cada día, y espero mi primera oportunidad en IT como meta para el próximo año!
