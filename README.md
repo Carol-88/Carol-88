@@ -23,6 +23,6 @@ Soy una desarrolladora de aplicaciones web empezando su camino. Estoy encantada 
 
 
 - React
-  ![React](ruta/a/tu/imagen/react.png)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/375px-React.svg.png" alt="React" width="100" heigth="100">
 
 ¡Gracias por visitar mi perfil!
