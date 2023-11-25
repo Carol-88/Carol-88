@@ -11,7 +11,7 @@ Soy una desarrolladora de aplicaciones web empezando su camino. Estoy encantada 
 ## Tecnologías
 
 - HTML
-  ![HTML](https://www.freepng.es/png-yllwu6/download.html)](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png)
+  ![HTML](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png)
 
 - CSS
   ![CSS](ruta/a/tu/imagen/css.png)
