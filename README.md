@@ -19,7 +19,8 @@ Soy una desarrolladora de aplicaciones web empezando su camino. Estoy encantada 
 
 
 - JavaScript
-  ![JavaScript](ruta/a/tu/imagen/javascript.png)
+  <img src="https://github.com/Carol-88/Carol-88/assets/114145394/6bc0091a-70cc-4d59-9066-fcbead0476ed" alt="JavaScript" width="100" heigth="100">
+
 
 - React
   ![React](ruta/a/tu/imagen/react.png)
