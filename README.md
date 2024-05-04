@@ -1,4 +1,4 @@
-![Banner](https://github.com/Carol-88/Carol-88/blob/main/banner.png)
+![Banner](https://github.com/Carol-88/Carol-88/blob/main/1704819174072.jpg)
 
 ### Hi there 👋
 
