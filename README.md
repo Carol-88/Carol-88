@@ -1,6 +1,6 @@
-![Banner](https://github.com/Carol-88/Carol-88/blob/main/1704819174072.jpg)
+![Banner](https://media.licdn.com/dms/image/D4D16AQEmOoe0qpV7vg/profile-displaybackgroundimage-shrink_350_1400/0/1715861059807?e=1721260800&v=beta&t=VMEBDFEwmnivtz0ViwIbh9Sz_8Ey6S1DdlwFYpzkB5Q)
 
-# 🌟 ¡Hola Soy Carolina 🚀
+# 🌟 ¡Hola Soy Carolina! 🚀
 
 Desarrolladora apasionada por las aplicaciones web, siempre dispuesta a aprender y colaborar en nuevos proyectos. Mi objetivo: convertirme en una profesional destacada en el mundo IT. ¡Únete a mi viaje!
 
@@ -23,7 +23,7 @@ Desarrolladora apasionada por las aplicaciones web, siempre dispuesta a aprender
 A continuación, encontrarás algunos de mis proyectos más significativos. Si estás interesado en ver más, no dudes en explorar mi repositorio.
 
 - [AdoptaUnJunior](https://adoptaunjunior.es/): Tiene como objetivo conectar a juniors del sector IT con empresas que buscan impulsar su innovación y desarrollo. Además, se pretende crear una comunidad sólida de juniors para fomentar la formación continua, el apoyo entre compañeros y ayudar a crecer profesionalmente, así como potenciar el acceso a su primer empleo en el sector tecnológico.
-- [CloudSolute](https://cloudsolute.net/): Explora una amplia colección de videos, transformando el contenido visual en texto accesible con nuestra tecnología de reconocimiento óptico de caracteres (OCR) en vide
+- [CloudSolute](https://cloudsolute.net/): Explora una amplia colección de videos, transformando el contenido visual en texto accesible con nuestra tecnología de reconocimiento óptico de caracteres (OCR) en video.
 
 
 ¡Gracias por visitar mi perfil!
