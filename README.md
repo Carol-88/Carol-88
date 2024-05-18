@@ -26,4 +26,9 @@ A continuación, encontrarás algunos de mis proyectos más significativos. Si e
 - [CloudSolute](https://cloudsolute.net/): Explora una amplia colección de videos, transformando el contenido visual en texto accesible con nuestra tecnología de reconocimiento óptico de caracteres (OCR) en video.
 
 
-¡Gracias por visitar mi perfil!
+## 📫 ¿Quieres saber más?
+
+No dudes en contactarme directamente aquí en GitHub o a través de mis redes sociales. ¡Estoy abierta a nuevas oportunidades y colaboraciones!
+
+- LinkedIn: [Carolina Romero](https://www.linkedin.com/in/carolina-romero-c/)
+- Twitter: [@caroldev_](https://x.com/caroldev_)
