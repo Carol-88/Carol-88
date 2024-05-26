@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/D4D16AQEmOoe0qpV7vg/profile-displaybackgroundimage-shrink_350_1400/0/1715861059807?e=1721260800&v=beta&t=VMEBDFEwmnivtz0ViwIbh9Sz_8Ey6S1DdlwFYpzkB5Q)
+
 
 # 🌟 ¡Hola Soy Carolina! 🚀
 
