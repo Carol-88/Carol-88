@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&pause=1000&color=F765AA&width=435&lines=Bienvenid%40s+a+mi+perfil)](https://git.io/typing-svg)
 # 👩‍💻 Carolina Romero | Desarrolladora Frontend | React, Next.js, TypeScript, React Native
 
 **Apasionada por la creación de interfaces de usuario dinámicas y accesibles.** Busco activamente unirme a un equipo innovador donde pueda aplicar mi experiencia en desarrollo frontend y contribuir al crecimiento de proyectos desafiantes.
