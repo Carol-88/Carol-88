@@ -7,10 +7,10 @@
 
 Un vistazo rápido a las tecnologías con las que trabajo:
 
-* **Lenguajes:** JavaScript (ES6+), TypeScript
-* **Frameworks/Librerías:** React, Next.js, React Native
+* **Lenguajes:** JavaScript (ES6+), TypeScript, Java, SQL
+* **Frameworks/Librerías:** React, Next.js, React Native, SpringBoot, JPA
 * **Estilado:** CSS3, HTML5, Tailwind CSS
-* **Herramientas:** Git, GitHub, Vite
+* **Herramientas:** Git, GitHub, Vite, IntelliJ Idea, DBeaver, Visual Studio Code
 
 <p align="center">
   <img src="https://github.com/Carol-88/Carol-88/blob/main/html.png" alt="HTML" width="40" height="40">
